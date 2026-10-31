@@ -1,0 +1,14 @@
+
+.venv-pandadata/
+.runtime-python/
+.uv-cache/
+__pycache__/
+.deploy-local/
+submission/
+alpha_lands/README.md
+alpha_lands/tools/package_submission.py
+alpha_lands/tools/make_demo_video.py
+**/user.json
+**/.env
+**/.env.*
+*.log
