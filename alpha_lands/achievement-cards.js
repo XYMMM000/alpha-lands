@@ -1,10 +1,10 @@
 /* Original vector portraits and achievement metadata. Cards are not ability certificates. */
 window.AlphaCards={
   catalog:{
-    fox:{number:'01',name:'狐狸研究员',title:'假设探索者',color:'#b47c48',motto:'让每个想法，都有证据。',rule:'完成一轮，且本轮主要倾向为假设探索。'},
-    owl:{number:'02',name:'猫头鹰研究员',title:'风险守望者',color:'#7b75a8',motto:'先看清风险，再走下一步。',rule:'完成一轮，且本轮主要倾向为风险研究。'},
-    cheetah:{number:'03',name:'猎豹研究员',title:'趋势观察者',color:'#b59b42',motto:'留意信号，也保留怀疑。',rule:'完成一轮，且本轮主要倾向为趋势观察。'},
-    elephant:{number:'04',name:'大象研究员',title:'长期研究者',color:'#688e9a',motto:'给长期判断，更多依据。',rule:'完成一轮，且本轮主要倾向为长期研究。'},
+    fox:{number:'01',name:'狐狸研究员',title:'假设探索者',color:'#b47c48',motto:'让每个想法，都有证据。',rule:'完成一轮后，当前档案主要倾向为假设探索。'},
+    owl:{number:'02',name:'猫头鹰研究员',title:'风险守望者',color:'#7b75a8',motto:'先看清风险，再走下一步。',rule:'完成一轮后，当前档案主要倾向为风险研究。'},
+    cheetah:{number:'03',name:'猎豹研究员',title:'趋势观察者',color:'#b59b42',motto:'留意信号，也保留怀疑。',rule:'完成一轮后，当前档案主要倾向为趋势观察。'},
+    elephant:{number:'04',name:'大象研究员',title:'长期研究者',color:'#688e9a',motto:'给长期判断，更多依据。',rule:'完成一轮后，当前档案主要倾向为长期研究。'},
     sprout:{number:'05',name:'萌芽研究员',title:'初步探索者',color:'#769459',motto:'不急着定型，先保持好奇。',rule:'完成一轮，自主线索尚不足以确定主要倾向。'},
     wanderer:{number:'06',name:'远行研究员',title:'多路线探索者',color:'#688d78',motto:'多条路径，都值得探索。',rule:'完成一轮，不同研究路线的线索接近。'}
   },
